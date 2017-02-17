@@ -22,6 +22,10 @@
 		EC3A226A1E568A52000398DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC3A226D1E568A52000398DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC3A226F1E568A52000398DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC3A22751E568A9B000398DA /* 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.playground; sourceTree = "<group>"; };
+		EC3A22761E568BAA000398DA /* 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.playground; sourceTree = "<group>"; };
+		EC3A22771E568BDD000398DA /* 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3.playground; sourceTree = "<group>"; };
+		EC3A22781E568BEC000398DA /* 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 4.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,10 @@
 		EC3A22571E568A52000398DA = {
 			isa = PBXGroup;
 			children = (
+				EC3A22781E568BEC000398DA /* 4.playground */,
+				EC3A22771E568BDD000398DA /* 3.playground */,
+				EC3A22761E568BAA000398DA /* 2.playground */,
+				EC3A22751E568A9B000398DA /* 1.playground */,
 				EC3A22621E568A52000398DA /* homeworkfive */,
 				EC3A22611E568A52000398DA /* Products */,
 			);
